@@ -1,2 +1,2 @@
 # Pong-Game
-# 5 Bit-Board
+# 5-Bit-Board
